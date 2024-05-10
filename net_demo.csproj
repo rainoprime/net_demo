@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<!--指定程序入口点-->
-	<StartupObject>NetDemo.HelloWorldSecond.HelloWorldSecondClass</StartupObject>
+	<StartupObject>Program_2</StartupObject>
 	<!--已废弃-->
 	<!--<MainEntryPoint>NetDemo.HelloWorldSecond.HelloWorldSecondClass</MainEntryPoint>-->
   </PropertyGroup>
